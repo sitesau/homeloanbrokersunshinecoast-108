@@ -1,0 +1,22 @@
+{
+  "wheel_id": 770,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-108",
+  "project": "mortgage-brokers-sunshine-coast-how-to-choose-0e4ee2e18a13f9f64",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage brokers sunshine coast how to choose",
+  "intended_url": "https://sitesau.github.io/homeloanbrokersunshinecoast-108/",
+  "tier": "T2",
+  "writeback_nonce": "1a65842fbf811916",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-brokers-sunshine-coast-investment-04b075f99f4053202088/",
+      "anchor": "this mortgage brokers sunshine coast investment resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
